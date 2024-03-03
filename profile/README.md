@@ -15,3 +15,7 @@ Tegridy Farm uses **ProjectSyn** to leverage the task of managing and configurin
 # ![ProjectSyn Logo](/assets/syn_24px.png) Commodore Component Hub
 
 Discover existing Commodore components on the [Commodore Component Hub](https://hub.syn.tools/)
+
+# ![EFK Logo](/assets/efk_24px.png) Eagle Fang Kubernetes
+
+> Infos comming soon.
